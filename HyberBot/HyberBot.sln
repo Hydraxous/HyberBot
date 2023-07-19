@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyberBot", "HyberBot.csproj", "{9BA9F49E-0C4D-4353-B4F5-9512CEFE09DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BA9F49E-0C4D-4353-B4F5-9512CEFE09DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BA9F49E-0C4D-4353-B4F5-9512CEFE09DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BA9F49E-0C4D-4353-B4F5-9512CEFE09DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BA9F49E-0C4D-4353-B4F5-9512CEFE09DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {245C5DA3-3EC7-4F16-B3FB-F5330E7482C8}
+	EndGlobalSection
+EndGlobal
