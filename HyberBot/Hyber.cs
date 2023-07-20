@@ -125,8 +125,8 @@ namespace HyberBot
             await testCmd.BuildCommand();
             Logger.Log("Built test command");
 
-            //DailySoulsNameCommand dailySouls = new DailySoulsNameCommand(Client);
-            //await dailySouls.BuildCommand();
+            DailySoulsNameCommand dailySouls = new DailySoulsNameCommand(Client);
+            await dailySouls.BuildCommand();
             Logger.Log("Built souls rename");
 
         }
